@@ -1,49 +1,67 @@
-# Christian Barros
+<h1 align="center">Christian Barros</h1>
 
-**Estudante de ADS** · IBM Brasil · Hortolândia-SP
+<p align="center">
+  Estudante de ADS &nbsp;·&nbsp; IBM Brasil &nbsp;·&nbsp; Hortolândia-SP
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+</p>
 
 ---
 
-## Perfil
+## Sobre mim
 
-- Cursando Análise e Desenvolvimento de Sistemas – 1º semestre (Unasp-HT)  
-- Assistente de Processos na IBM – backoffice com SAP e CRM  
-- Estudo atual: HTML, Git, APIs REST, fundamentos de IA  
-- Objetivo profissional: estágio em desenvolvimento de software e evolução para full stack
+Estudante de Análise e Desenvolvimento de Sistemas, trabalhando como Assistente de Processos na IBM.
+Apaixonado por automação, inteligência artificial e desenvolvimento full stack.
+Transformo lógica em código — ainda devagar, mas com consistência.
 
 ---
 
-## Tecnologias e ferramentas
+## Atualmente
 
-| Categoria               | Itens                                                                                                                      |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Linguagens              | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) |
-| Controle de versão      | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)                                                    |
-| Sistemas corporativos   | ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff) ![CRM](https://img.shields.io/badge/CRM-0084FF?logo=salesforce&logoColor=fff) |
-| Interesse / estudo      | `APIs REST` `IA/LLMs` `Automação` `Cloud`                                                                                 |
-| Ferramentas             | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=fff) ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?logo=microsoftoffice&logoColor=fff) |
+-  **1º semestre ADS** — Unasp-HT (Python, C++, Lógica de programação)
+-  **IBM Brasil** — Backoffice corporativo com SAP e CRM
+-  **Estudando:** HTML, Git, APIs REST, fundamentos de IA
+-  **Objetivo:** primeiro estágio em TI & evolução rumo ao Full Stack
+
+---
+
+## Tecnologias & Ferramentas
+
+| Categoria | Tecnologias |
+|---|---|
+| Linguagens | Python · C++ · HTML |
+| Controle de versão | Git |
+| Sistemas corporativos | SAP · CRM · CSS (IBM) |
+| Interesse / Conceitual | APIs REST · IA / LLMs · Automação · Cloud |
+| Ferramentas | VS Code · Pacote Office · Excel |
 
 ---
 
 ## Idiomas
 
-| Idioma         | Nível                                                                       |
-|----------------|-----------------------------------------------------------------------------|
-| Português (BR) | Nativo                                                                      |
-| Inglês (GB)    | B1 (intermediário) – leitura B2 (certificado EF SET)                        |
+| Idioma | Nível |
+|---|---|
+| 🇧🇷 Português | Nativo |
+| 🇬🇧 Inglês | B1 Intermediário — Leitura B2 Independente (EF SET) |
 
 ---
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/christianbarros/)  
-- [GitHub](https://github.com/seuusuario)  
-- E-mail: seuemail@dominio.com
-
----
-
-## Estatísticas (opcional)
-
-[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=default&hide_title=true)](https://github.com/seuusuario)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=default)](https://github.com/seuusuario)
+[![Gmail](https://img.shields.io/badge/christiantelecomcp@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:christiantelecomcp@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/(19)_98926--3179-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5519989263179)
+&nbsp;
+![Localização](https://img.shields.io/badge/Hortolândia--SP-grey?style=flat&logo=googlemaps&logoColor=white)
