@@ -30,10 +30,10 @@ Transformo lógica em código — ainda devagar, mas com consistência.
 
 ## Atualmente
 
-- 🎓 **1º semestre ADS** — Unasp-HT (Python, C++, Lógica de programação)
-- 💼 **IBM Brasil** — Backoffice corporativo com SAP e CRM
-- 🧠 **Estudando:** HTML, Git, APIs REST, fundamentos de IA
-- 🎯 **Objetivo:** primeiro estágio em TI & evolução rumo ao Full Stack
+-  **1º semestre ADS** — Unasp-HT (Python, C++, Lógica de programação)
+-  **IBM Brasil** — Backoffice corporativo com SAP e CRM
+-  **Estudando:** HTML, Git, APIs REST, fundamentos de IA
+-  **Objetivo:** primeiro estágio em TI & evolução rumo ao Full Stack
 
 ---
 
