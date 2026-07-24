@@ -1,95 +1,128 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%C2%B7+C%2B%2B+%C2%B7+SQL;Software+Development+%7C+Automation+%7C+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Development;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Java+%E2%80%A2+SQL;IBM+Brasil" />
 
 # Christian Barros
 
-**Análise e Desenvolvimento de Sistemas**
+### Software Development | Analysis and Development of Systems
 
-Hortolândia • SP
+<a href="mailto:christiantelecomcp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<a href="mailto:christiantelecomcp@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/christianbarros-a682042a9">LinkedIn</a>
+<a href="https://www.linkedin.com/in/christian-barros-a682042a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## Sobre
+## About
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software.
+Undergraduate student in Analysis and Development of Systems with an interest in software development, automation and back-end technologies.
 
-Atualmente atuo na IBM Brasil utilizando sistemas corporativos como SAP e CRM, enquanto desenvolvo projetos para consolidar conhecimentos em programação, algoritmos, integração de APIs e boas práticas de desenvolvimento.
-
-Tenho interesse em desenvolvimento Back-end, automação e engenharia de software.
+Currently working at IBM Brasil with enterprise systems (SAP and CRM) while developing personal projects focused on programming fundamentals, APIs, data structures and software engineering.
 
 ---
 
-## Formação
+## Education
 
 **UNASP – Centro Universitário Adventista de São Paulo**
 
-Análise e Desenvolvimento de Sistemas
+Analysis and Development of Systems
 
 ---
 
-## Tecnologias
+## Technologies
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,linux,bash&theme=dark)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,linux,bash,vscode&theme=dark"/>
 
 </div>
 
-| Área | Tecnologias |
-|------|-------------|
-| Linguagens | Python • C++ • HTML • CSS |
-| Estudando | Java • JavaScript • SQL |
-| Versionamento | Git • GitHub |
-| Sistemas | SAP • CRM |
-| Ambiente | Linux • VS Code |
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python • C++ • HTML • CSS |
+| Learning | Java • JavaScript • SQL |
+| Version Control | Git • GitHub |
+| Enterprise Systems | SAP • CRM |
+| Environment | Linux • VS Code |
 
 ---
 
-## Projetos
+## Featured Projects
 
-### CpfValidator
+### CPF Validator
 
-Bot desenvolvido em C++ integrado à API do Telegram para validação de CPF em tempo real.
+Telegram Bot developed in C++ for real-time CPF validation through the Telegram Bot API.
 
-**Tecnologias**
+**Highlights**
 
 - C++
 - Telegram Bot API
 - HTTP Requests
 - JSON
+- Input validation
+
+🔗 Repository:
+https://github.com/christiantelecomcp-arch/CpfValidator
 
 ---
 
 ### FastLearnWithAI
 
-Estudo sobre o uso responsável de Inteligência Artificial no aprendizado de programação, baseado em artigos científicos e documentação técnica.
+Research project about the responsible use of Artificial Intelligence for programming education, based on academic papers and technical references.
+
+**Topics**
+
+- Artificial Intelligence
+- Programming Education
+- Learning Strategies
+- Scientific Research
+
+🔗 Repository:
+https://github.com/christiantelecomcp-arch/FastLearnWithAI
 
 ---
 
-## Objetivos atuais
+## Current Focus
 
-- Desenvolvimento Back-end
-- Banco de Dados
-- Estruturas de Dados
-- Testes
-- APIs REST
-- Git e GitHub
-- Boas práticas de desenvolvimento
+- Back-end Development
+- Java
+- SQL
+- Data Structures
+- Object-Oriented Programming
+- REST APIs
+- Software Engineering
+- Clean Code
+- Git & GitHub
 
 ---
 
-## Contato
+## GitHub Statistics
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiantelecomcp@gmail.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=christiantelecomcp-arch&show_icons=true&theme=github_dark&hide_border=true"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianbarros-a682042a9)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiantelecomcp-arch&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:christiantelecomcp@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/christian-barros-a682042a9">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
